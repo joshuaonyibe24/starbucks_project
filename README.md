@@ -24,3 +24,5 @@ https://medium.com/@joshuaonyibe11/unlocking-customer-engagement-a-data-science-
 ## Acknowledgement
 A big thank you to Starbucks for providing the data and the context for this project. Additionally, I would like to extend my gratitude to the Udacity Data Scientist Nanodegree program for presenting such a challenging and enriching project. Your support and resources have been invaluable in completing this analysis.
 
+## DATA DETAILS
+Data obtained from Kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data). The transcript.json file cannot be uploaded here due to its size exceeding GitHub's file size limit of 25MB. This
