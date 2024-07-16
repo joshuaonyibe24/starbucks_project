@@ -19,7 +19,7 @@ numpy
 
 ## Check out my blog post on Medium
 
-
+https://medium.com/@joshuaonyibe11/unlocking-customer-engagement-a-data-science-journey-with-starbucks-rewards-app-b3b80743b183
 
 ## Acknowledgement
 A big thank you to Starbucks for providing the data and the context for this project. Additionally, I would like to extend my gratitude to the Udacity Data Scientist Nanodegree program for presenting such a challenging and enriching project. Your support and resources have been invaluable in completing this analysis.
